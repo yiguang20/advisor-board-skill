@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime output directories (keep directory structure with .gitkeep)
+/analysis/*
+!/analysis/.gitkeep
+/council-reports/*
+!/council-reports/.gitkeep
+/output/*
+!/output/.gitkeep
+/resources/*
+!/resources/.gitkeep
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
